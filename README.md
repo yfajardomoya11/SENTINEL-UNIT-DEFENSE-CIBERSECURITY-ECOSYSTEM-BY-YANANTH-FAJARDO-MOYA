@@ -50,18 +50,14 @@ Simulate a real-world Blue Team / SOC environment using modular cybersecurity to
 ```mermaid
 flowchart LR
 
-A[🌐 Network Security Tool\n(Device Management & Backups)]
-B[🚨 Sentinel Watch\n(Intrusion Detection System)]
-C[🛡️ Guardian Engine\n(Log Analysis & Threat Monitoring)]
+A[Network Security Tool - Device Management & Backups]
+B[Sentinel Watch - Intrusion Detection System]
+C[Guardian Engine - Log Analysis & Threat Monitoring]
+D[Security Insights / Alerts]
 
 A --> B
 B --> C
-
-C --> D[📊 Security Insights / Alerts]
-
-style A fill:#0b3d91,color:#fff
-style B fill:#8b0000,color:#fff
-style C fill:#4b0082,color:#fff
-style D fill:#006400,color:#fff
+C --> D
 ```
+
 
