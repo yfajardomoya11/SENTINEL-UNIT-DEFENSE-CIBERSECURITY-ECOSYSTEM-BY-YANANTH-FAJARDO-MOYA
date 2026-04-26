@@ -43,3 +43,25 @@ Event-driven security engine for log analysis and threat monitoring.
 ## 🎯 Objective
 
 Simulate a real-world Blue Team / SOC environment using modular cybersecurity tools.
+
+
+## 🧠 SOC Architecture Diagram
+
+```mermaid
+flowchart LR
+
+A[🌐 Network Security Tool\n(Device Management & Backups)]
+B[🚨 Sentinel Watch\n(Intrusion Detection System)]
+C[🛡️ Guardian Engine\n(Log Analysis & Threat Monitoring)]
+
+A --> B
+B --> C
+
+C --> D[📊 Security Insights / Alerts]
+
+style A fill:#0b3d91,color:#fff
+style B fill:#8b0000,color:#fff
+style C fill:#4b0082,color:#fff
+style D fill:#006400,color:#fff
+```
+
