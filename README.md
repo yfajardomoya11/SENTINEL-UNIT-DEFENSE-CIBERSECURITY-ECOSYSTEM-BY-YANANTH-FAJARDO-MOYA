@@ -1,7 +1,8 @@
 # Sentinel Defense Unit 1.0
 ## Integrated Cybersecurity Ecosystem
 
-![Sentinel Defense Unit Banner](Copilot_20260429_195528.jpg)
+<img width="1536" height="1024" alt="sentinel defense unit" src="https://github.com/user-attachments/assets/1fdf1174-a727-44cc-9d90-0473b9fd7e2d" />
+
 
 **Sentinel Defense Unit 1.0** es un ecosistema integral de ciberseguridad diseñado para proporcionar una defensa en profundidad robusta y escalable. Este proyecto nace de la necesidad de centralizar la visibilidad y respuesta ante incidentes, integrando tres herramientas de desarrollo propio que cubren desde el análisis de tráfico hasta la correlación avanzada de eventos.
 
