@@ -1,6 +1,6 @@
 # 🛡️ SENTINEL DEFENSE UNIT v1.0  
 ### *Enterprise Cybersecurity Ecosystem & Threat Intelligence Core*  
-**By Yananth Fajardo Moya — The Network Guardian**
+**By Yananth Fajardo Moya **
 
 ---
 
@@ -23,7 +23,7 @@ Este sistema representa la convergencia de **tres entidades especializadas**, ca
 
 > ⚡ *No es solo software. Es una arquitectura de defensa digital viva.*
 
-Forma parte del proyecto **The Network Guardian**, enfocado en educación, investigación y desarrollo de herramientas open-source de ciberseguridad.
+Forma parte del proyecto, enfocado en educación, investigación y desarrollo de herramientas open-source de ciberseguridad.
 
 ---
 
