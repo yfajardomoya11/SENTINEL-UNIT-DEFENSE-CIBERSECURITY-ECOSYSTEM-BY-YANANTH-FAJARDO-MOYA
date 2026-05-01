@@ -29,7 +29,7 @@ Forma parte del proyecto, enfocado en educación, investigación y desarrollo de
 
 ## 🛠️ ECOSYSTEM COMPONENTS
 
-### 🔷 1. Network Security Tool — *“The Blue Sentinel”*  
+### 🔷 1.SENTINEL BLUESHIELD**
 > Guardian of Infrastructure  
 
 Herramienta especializada en auditoría y reconocimiento de red.
