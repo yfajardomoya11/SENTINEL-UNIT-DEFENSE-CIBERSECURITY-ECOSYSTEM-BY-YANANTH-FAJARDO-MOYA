@@ -7,10 +7,11 @@
 ## ⚔️ VISUAL IDENTITY
 
 ### 🌌 Sentinel Defense Unit — Battlefield Presence
-![Sentinel Defense Unit](./sentinel%20defense%20unit.png)
+<img width="1536" height="1024" alt="sentinel defense unit" src="https://github.com/user-attachments/assets/f617132c-bb89-49f5-b588-6553922afd2b" />
+
 
 ### 🧠 Sentinel Defense Unit — Cyber Intelligence Core
-![Sentinel Defense Unit Core](./defense%20unit%202.png)
+<img width="2528" height="1499" alt="defense unit 2" src="https://github.com/user-attachments/assets/b1627287-3d06-414f-ad52-bb74c67d1d10" />
 
 ---
 
